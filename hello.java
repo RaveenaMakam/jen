@@ -1,2 +1,7 @@
-javac hello.java
-java hello
+public class demo
+{
+  public static void main(string[] args)
+  {
+    system.out.println("hello java")
+  }
+}
