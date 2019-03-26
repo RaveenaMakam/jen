@@ -1,1 +1,1 @@
-hello from dbs
+echo "hello batch"
